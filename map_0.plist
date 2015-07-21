@@ -36,13 +36,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>map.png</string>
+            <string>map_0.png</string>
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d0e168b4d4c51e55b8fcc37532b274a2:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:a909381422666719996cf275326169f7:1/1$</string>
             <key>textureFileName</key>
-            <string>map.png</string>
+            <string>map_0.png</string>
         </dict>
     </dict>
 </plist>
