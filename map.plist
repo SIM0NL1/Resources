@@ -4,7 +4,33 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>battlemap_5_dark.png</key>
+            <key>battlemap_0_dark.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{78,2},{74,74}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,74}}</string>
+                <key>sourceSize</key>
+                <string>{74,74}</string>
+            </dict>
+            <key>battlemap_0_light.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,154},{74,74}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,74}}</string>
+                <key>sourceSize</key>
+                <string>{74,74}</string>
+            </dict>
+            <key>battlemap_1_dark.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,78},{74,74}}</string>
@@ -17,7 +43,7 @@
                 <key>sourceSize</key>
                 <string>{74,74}</string>
             </dict>
-            <key>battlemap_5_light.png</key>
+            <key>battlemap_1_light.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,2},{74,74}}</string>
@@ -36,13 +62,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>map_0.png</string>
+            <string>map.png</string>
             <key>size</key>
-            <string>{128,256}</string>
+            <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a909381422666719996cf275326169f7:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:a783f58f45d75844773c67d58b274c27:1/1$</string>
             <key>textureFileName</key>
-            <string>map_0.png</string>
+            <string>map.png</string>
         </dict>
     </dict>
 </plist>
