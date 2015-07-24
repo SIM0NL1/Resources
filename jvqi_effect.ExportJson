@@ -7,14 +7,14 @@
       "name": "jvqi_effect",
       "bone_data": [
         {
-          "name": "Layer2",
+          "name": "Layer3",
           "parent": "",
           "dI": 0,
           "x": 0.0,
           "y": 0.0,
-          "z": 2,
-          "cX": 1.0,
-          "cY": 1.0,
+          "z": 3,
+          "cX": 1.3,
+          "cY": 1.3,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -23,7 +23,63 @@
           "bl": 0,
           "display_data": [
             {
-              "name": "juqi002.png",
+              "name": "juqi003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "juqi005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "juqi006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "juqi007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "juqi008.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -39,14 +95,14 @@
           ]
         },
         {
-          "name": "Layer1",
+          "name": "Layer4",
           "parent": "",
           "dI": 0,
           "x": 0.0,
           "y": 0.0,
           "z": 1,
-          "cX": 1.0,
-          "cY": 1.0,
+          "cX": 1.3,
+          "cY": 1.3,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -55,7 +111,7 @@
           "bl": 0,
           "display_data": [
             {
-              "name": "juqi001.png",
+              "name": "juqi004.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -87,16 +143,16 @@
           "sc": 1.0,
           "mov_bone_data": [
             {
-              "name": "Layer2",
+              "name": "Layer3",
               "dl": 0.0,
               "frame_data": [
                 {
-                  "dI": -1000,
+                  "dI": -999,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
-                  "cX": 0.299999923,
-                  "cY": 0.299999923,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
                   "fi": 0,
@@ -106,15 +162,102 @@
                   "bd_dst": 771
                 },
                 {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 19,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 100,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
                   "dI": 0,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
-                  "cX": 0.299999923,
-                  "cY": 0.299999923,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 15,
+                  "fi": 45,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
@@ -125,8 +268,8 @@
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
-                  "cX": 1.5,
-                  "cY": 1.5,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
                   "fi": 50,
@@ -144,7 +287,7 @@
               ]
             },
             {
-              "name": "Layer1",
+              "name": "Layer4",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -167,11 +310,11 @@
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
-                  "cX": 0.2,
-                  "cY": 0.2,
-                  "kX": 6.28318548,
-                  "kY": -6.283186,
-                  "fi": 40,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
@@ -182,31 +325,10 @@
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
-                  "cX": 0.2,
-                  "cY": 0.2,
-                  "kX": 6.28318548,
-                  "kY": -6.283186,
-                  "fi": 45,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "color": {
-                    "a": 0,
-                    "r": 255,
-                    "g": 255,
-                    "b": 255
-                  },
-                  "bd_src": 1,
-                  "bd_dst": 771
-                },
-                {
-                  "dI": -1000,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 0.2,
-                  "cY": 0.2,
-                  "kX": 6.28318548,
-                  "kY": -6.283186,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
                   "fi": 50,
                   "twE": 0,
                   "tweenFrame": true,
@@ -228,17 +350,49 @@
   ],
   "texture_data": [
     {
-      "name": "juqi001",
-      "width": 235.0,
-      "height": 235.0,
+      "name": "juqi003",
+      "width": 138.0,
+      "height": 138.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "juqi002",
-      "width": 147.0,
-      "height": 147.0,
+      "name": "juqi004",
+      "width": 138.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "juqi005",
+      "width": 138.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "juqi006",
+      "width": 138.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "juqi007",
+      "width": 138.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "juqi008",
+      "width": 138.0,
+      "height": 138.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""

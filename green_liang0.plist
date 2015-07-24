@@ -7,9 +7,9 @@
 			<key>green_liang.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>58</integer>
 				<key>height</key>
-				<integer>74</integer>
+				<integer>58</integer>
 				<key>originalWidth</key>
 				<integer>74</integer>
 				<key>originalHeight</key>
@@ -19,28 +19,9 @@
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>0</real>
+				<real>-1</real>
 				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>green.png</key>
-			<dict>
-				<key>width</key>
-				<integer>67</integer>
-				<key>height</key>
-				<integer>67</integer>
-				<key>originalWidth</key>
-				<integer>74</integer>
-				<key>originalHeight</key>
-				<integer>74</integer>
-				<key>x</key>
-				<integer>76</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>-0.5</real>
-				<key>offsetY</key>
-				<real>0.5</real>
+				<real>1</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

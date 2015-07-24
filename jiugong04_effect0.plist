@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>jiugong_001.png</key>
+			<key>hengxiao_005.png</key>
 			<dict>
 				<key>width</key>
-				<integer>72</integer>
+				<integer>109</integer>
 				<key>height</key>
-				<integer>72</integer>
+				<integer>122</integer>
 				<key>originalWidth</key>
-				<integer>72</integer>
+				<integer>123</integer>
 				<key>originalHeight</key>
-				<integer>72</integer>
+				<integer>123</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -21,140 +21,7 @@
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>jiugong_002.png</key>
-			<dict>
-				<key>width</key>
-				<integer>72</integer>
-				<key>height</key>
-				<integer>72</integer>
-				<key>originalWidth</key>
-				<integer>72</integer>
-				<key>originalHeight</key>
-				<integer>72</integer>
-				<key>x</key>
-				<integer>74</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>jiugong_003.png</key>
-			<dict>
-				<key>width</key>
-				<integer>72</integer>
-				<key>height</key>
-				<integer>72</integer>
-				<key>originalWidth</key>
-				<integer>72</integer>
-				<key>originalHeight</key>
-				<integer>72</integer>
-				<key>x</key>
-				<integer>148</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>jiugong_004.png</key>
-			<dict>
-				<key>width</key>
-				<integer>72</integer>
-				<key>height</key>
-				<integer>72</integer>
-				<key>originalWidth</key>
-				<integer>72</integer>
-				<key>originalHeight</key>
-				<integer>72</integer>
-				<key>x</key>
-				<integer>222</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>jiugong_005.png</key>
-			<dict>
-				<key>width</key>
-				<integer>72</integer>
-				<key>height</key>
-				<integer>72</integer>
-				<key>originalWidth</key>
-				<integer>72</integer>
-				<key>originalHeight</key>
-				<integer>72</integer>
-				<key>x</key>
-				<integer>296</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>jiugong_006.png</key>
-			<dict>
-				<key>width</key>
-				<integer>72</integer>
-				<key>height</key>
-				<integer>72</integer>
-				<key>originalWidth</key>
-				<integer>72</integer>
-				<key>originalHeight</key>
-				<integer>72</integer>
-				<key>x</key>
-				<integer>370</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>jiugong_007.png</key>
-			<dict>
-				<key>width</key>
-				<integer>72</integer>
-				<key>height</key>
-				<integer>72</integer>
-				<key>originalWidth</key>
-				<integer>72</integer>
-				<key>originalHeight</key>
-				<integer>72</integer>
-				<key>x</key>
-				<integer>444</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>jiugong_008.png</key>
-			<dict>
-				<key>width</key>
-				<integer>72</integer>
-				<key>height</key>
-				<integer>72</integer>
-				<key>originalWidth</key>
-				<integer>72</integer>
-				<key>originalHeight</key>
-				<integer>72</integer>
-				<key>x</key>
-				<integer>518</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
+				<real>-0.5</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

@@ -7,9 +7,9 @@
 			<key>red_liang.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>65</integer>
 				<key>height</key>
-				<integer>74</integer>
+				<integer>64</integer>
 				<key>originalWidth</key>
 				<integer>74</integer>
 				<key>originalHeight</key>
@@ -19,9 +19,9 @@
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>0</real>
+				<real>-0.5</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>1</real>
 			</dict>
 			<key>red.png</key>
 			<dict>
@@ -34,7 +34,7 @@
 				<key>originalHeight</key>
 				<integer>74</integer>
 				<key>x</key>
-				<integer>76</integer>
+				<integer>67</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

@@ -7,9 +7,9 @@
 			<key>white_liang.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>58</integer>
 				<key>height</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>originalWidth</key>
 				<integer>74</integer>
 				<key>originalHeight</key>
@@ -21,7 +21,7 @@
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>-0.5</real>
 			</dict>
 			<key>white.png</key>
 			<dict>
@@ -34,7 +34,7 @@
 				<key>originalHeight</key>
 				<integer>74</integer>
 				<key>x</key>
-				<integer>76</integer>
+				<integer>60</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

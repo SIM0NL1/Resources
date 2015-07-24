@@ -4,18 +4,94 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>juqi002.png</key>
+			<key>juqi003.png</key>
 			<dict>
 				<key>width</key>
-				<integer>147</integer>
+				<integer>134</integer>
 				<key>height</key>
-				<integer>147</integer>
+				<integer>134</integer>
 				<key>originalWidth</key>
-				<integer>147</integer>
+				<integer>138</integer>
 				<key>originalHeight</key>
-				<integer>147</integer>
+				<integer>138</integer>
 				<key>x</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>-1</real>
+			</dict>
+			<key>juqi005.png</key>
+			<dict>
+				<key>width</key>
+				<integer>134</integer>
+				<key>height</key>
+				<integer>134</integer>
+				<key>originalWidth</key>
+				<integer>138</integer>
+				<key>originalHeight</key>
+				<integer>138</integer>
+				<key>x</key>
+				<integer>136</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>-1</real>
+			</dict>
+			<key>juqi006.png</key>
+			<dict>
+				<key>width</key>
+				<integer>111</integer>
+				<key>height</key>
+				<integer>111</integer>
+				<key>originalWidth</key>
+				<integer>138</integer>
+				<key>originalHeight</key>
+				<integer>138</integer>
+				<key>x</key>
+				<integer>272</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>-0.5</real>
+				<key>offsetY</key>
+				<real>-0.5</real>
+			</dict>
+			<key>juqi007.png</key>
+			<dict>
+				<key>width</key>
+				<integer>77</integer>
+				<key>height</key>
+				<integer>77</integer>
+				<key>originalWidth</key>
+				<integer>138</integer>
+				<key>originalHeight</key>
+				<integer>138</integer>
+				<key>x</key>
+				<integer>385</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>-0.5</real>
+				<key>offsetY</key>
+				<real>-0.5</real>
+			</dict>
+			<key>juqi008.png</key>
+			<dict>
+				<key>width</key>
+				<integer>138</integer>
+				<key>height</key>
+				<integer>138</integer>
+				<key>originalWidth</key>
+				<integer>138</integer>
+				<key>originalHeight</key>
+				<integer>138</integer>
+				<key>x</key>
+				<integer>464</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -23,24 +99,24 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>juqi001.png</key>
+			<key>juqi004.png</key>
 			<dict>
 				<key>width</key>
-				<integer>235</integer>
+				<integer>132</integer>
 				<key>height</key>
-				<integer>235</integer>
+				<integer>132</integer>
 				<key>originalWidth</key>
-				<integer>235</integer>
+				<integer>138</integer>
 				<key>originalHeight</key>
-				<integer>235</integer>
+				<integer>138</integer>
 				<key>x</key>
-				<integer>149</integer>
+				<integer>604</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>-1</real>
 			</dict>
 		</dict>
 		<key>metadata</key>
