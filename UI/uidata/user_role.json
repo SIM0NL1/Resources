@@ -1,0 +1,27 @@
+[
+    [
+        "user_role_id",
+        "user_role_level",
+        "user_feed_currentlevel"
+    ],
+    [
+        1,
+        1,
+        0
+    ],
+    [
+        2,
+        0,
+        0
+    ],
+    [
+        3,
+        0,
+        0
+    ],
+    [
+        4,
+        0,
+        0
+    ]
+]
